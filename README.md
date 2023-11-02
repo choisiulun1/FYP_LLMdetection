@@ -5,9 +5,10 @@
 python app.py
 
 ## run vue APP (Port:5001)
-npm run serve
+cd front-end </br>
+npm run serve </br>
 
 ## Venv
-sudo rm -r venv
-source venv/bin.activate
-pip install -r requirements.txt
+sudo rm -r venv </br>
+source venv/bin.activate </br>
+pip install -r requirements.txt </br>
