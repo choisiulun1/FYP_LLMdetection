@@ -37,7 +37,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="/Users/siulun/Documents/GitHub/FYP_LLMdetection/venv"
+VIRTUAL_ENV="/home/choisiulun1/FYP_LLMdetection/venv"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"

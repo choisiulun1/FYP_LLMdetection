@@ -20,7 +20,7 @@ export default {
   methods: {
     fetchData() {
       // Assuming you have axios available globally or imported in the script
-      axios.get('http://127.0.0.1:5000/api/data')
+      axios.get('http://www.siulun1.com:5000/api/data')
     .then(response => {
         // handle success
         console.log(response.data);

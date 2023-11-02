@@ -29,7 +29,7 @@ end
 # Unset irrelevant variables.
 deactivate nondestructive
 
-set -gx VIRTUAL_ENV "/Users/siulun/Documents/GitHub/FYP_LLMdetection/venv"
+set -gx VIRTUAL_ENV "/home/choisiulun1/FYP_LLMdetection/venv"
 
 set -gx _OLD_VIRTUAL_PATH $PATH
 set -gx PATH "$VIRTUAL_ENV/bin" $PATH
