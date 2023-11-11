@@ -1,4 +1,4 @@
-#!/Users/siulun/Documents/GitHub/FYP_LLMdetection/venv/bin/python3.9
+#!/home/siulun/FYP_LLMdetection/venv/bin/python3.10
 # -*- coding: utf-8 -*-
 import re
 import sys
