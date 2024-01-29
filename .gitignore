@@ -1,2 +1,4 @@
-lm-watermarking/
+lm-watermarking
 xsum/__pycache__
+*:Zone.Identifier
+
